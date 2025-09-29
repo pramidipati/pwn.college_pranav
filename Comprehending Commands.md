@@ -38,7 +38,12 @@ making directories : mkdir
 ## hacker@commands~finding-files:~$ 
 pwn.college{cHF3rRek4bWmyE-B9twWC25jOlV.QXyMDO0wCN1EzNzEzW}
 finding files : find location -name file_name
-## 
+## commands~linking-files:~$ /challenge/catflag
+pwn.college{4AIptr2jBn-06wMu6z-asawA-CO.QX5ETN1wCN1EzNzEzW}
+linked the file which did not have the flag to one which did
+info:
+direntry → inode → data blocks
+Hardlink Softlink
 Works across filesystems?	❌ No	✅ Yes
 Can link directories?	❌ No	✅ Yes
 Storage overhead	Very small	Small (stores path string)
