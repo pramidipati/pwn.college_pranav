@@ -1,8 +1,8 @@
 # Chaining commands
-## chaining~chaining-with-semicolons:~$ /challenge/pwn ;/challenge/college 
+##chaining-with-semicolons:~$ /challenge/pwn ;/challenge/college 
 Yes! You chained /challenge/pwn and /challenge/college! Here is your flag:
 pwn.college{gKUq6RQ0NKpVyf5pa8zm-S93HA3.QX1UDO0wCN1EzNzEzW}
-## chaining~building-on-success:~$ /challenge/first-success && /challenge/second 
+## building-on-success:~$ /challenge/first-success && /challenge/second 
 Nice chaining! Flag: pwn.college{UJjSN9tXPLYoI1lzqlStFOPdPuC.0lM0MDOxwCN1EzNzEzW}
 ## chaining~your-first-shell-script:~$ bash x.sh
 pwn.college{Ua5W_JNBN1Oy9ndfrpsIdeuOFOm.QXxcDO0wCN1EzNzEzW}  
