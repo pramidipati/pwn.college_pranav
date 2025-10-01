@@ -43,6 +43,6 @@ pwn.college{4AIptr2jBn-06wMu6z-asawA-CO.QX5ETN1wCN1EzNzEzW}
 linked the file which did not have the flag to one which did  
 direntry → inode → data blocks  
 Hardlink Softlink  
-Works across filesystems?	 No	 Yes  
+Works across filesystems( different partitions)?	 No	 Yes  
 Can link directories?	 No	 Yes  
 Storage overhead	Very small	Small (stores path string)  
